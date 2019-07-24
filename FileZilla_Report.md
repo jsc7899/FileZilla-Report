@@ -53,6 +53,7 @@ Two events were sent to us in from Cisco AMP which contained the following relev
     Filename: FileZilla_3.39.0_win32-setup.exe
 * March 16, 2019 at 05:37:23 UTC: 3129fd5421c1a71c0673f4cae5349b4a98d4e93da9c41ace1bcacdc9ebf9c0ff https://www.virustotal.com/#/file/3129fd5421c1a71c0673f4cae5349b4a98d4e93da9c41ace1bcacdc9ebf9c0ff/detection
     Filename: FileZilla_3.34.0_win32-setup.exe
+
 Both hashes are related to two different versions of FileZilla and contain some sort of malware according the Virus Total reports. 
 
 **LANrev Report - Search for Installed Software = filezilla** 
