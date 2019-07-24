@@ -50,9 +50,9 @@ FileZilla’s official bundled installers contain adware at best and malware at 
 
 Two events were sent to us in from Cisco AMP which contained the following relevant hashes: 
 
-    - March 14, 2019 at 3:56 PM: 3fb8dc6d84333baa3b12f536c9620c3ad55ae9508c6ad2310fa897b720126186 https://www.virustotal.com/#/file/3fb8dc6d84333baa3b12f536c9620c3ad55ae9508c6ad2310fa897b720126186/detection
+    * March 14, 2019 at 3:56 PM: 3fb8dc6d84333baa3b12f536c9620c3ad55ae9508c6ad2310fa897b720126186 https://www.virustotal.com/#/file/3fb8dc6d84333baa3b12f536c9620c3ad55ae9508c6ad2310fa897b720126186/detection
         Filename: FileZilla_3.39.0_win32-setup.exe
-    - March 16, 2019 at 05:37:23 UTC: 3129fd5421c1a71c0673f4cae5349b4a98d4e93da9c41ace1bcacdc9ebf9c0ff https://www.virustotal.com/#/file/3129fd5421c1a71c0673f4cae5349b4a98d4e93da9c41ace1bcacdc9ebf9c0ff/detection
+    * March 16, 2019 at 05:37:23 UTC: 3129fd5421c1a71c0673f4cae5349b4a98d4e93da9c41ace1bcacdc9ebf9c0ff https://www.virustotal.com/#/file/3129fd5421c1a71c0673f4cae5349b4a98d4e93da9c41ace1bcacdc9ebf9c0ff/detection
         Filename: FileZilla_3.34.0_win32-setup.exe
 
 Both hashes are related to two different versions of FileZilla and contain some sort of malware according the Virus Total reports. 
